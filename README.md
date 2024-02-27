@@ -1,6 +1,7 @@
 # Jyunii's Wassup2
+==================
 안녕하세요 앞으로 잘 부탁드립니다!!
-----------------------
+
 
 # About Me
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
