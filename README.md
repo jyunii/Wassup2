@@ -3,6 +3,7 @@
 ----------------------
 
 # About Me
+![Jyunii](http://localhost:8888/view/image/KakaoTalk_20240228_000535511.jpg/img.jpg)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 # Skills
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
