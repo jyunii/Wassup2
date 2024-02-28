@@ -3,9 +3,13 @@
 아직 부족한 점이 많지만 열심히 잘 따라가 보겠습니다ㅎㅎ
 
 
+
+
 # About Me :heart:   
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/oreumi/b0194af8f29d4114aa80f990243d2581)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/o__zyunii/)
+
+
 
 # Skills :star:    
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
