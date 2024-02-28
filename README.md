@@ -1,7 +1,7 @@
 # Jyunii's Wassup2 :smile:         
 안녕하세요 앞으로 잘 부탁드립니다!!    
 아직 부족한 점이 많지만 열심히 잘 따라가 보겠습니다ㅎㅎ
-
+------------------------------    
 
 
              
@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/o__zyunii/)
 
 
-                  
+------------------------------                     
 # Skills :star:    
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
