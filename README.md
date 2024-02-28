@@ -1,5 +1,6 @@
 # Jyunii's Wassup2 :smile:         
 안녕하세요 앞으로 잘 부탁드립니다!!
+아직 부족한 점이 많지만 열심히 잘 따라가 보겠습니다ㅎㅎ
 
 
 # About Me :heart:   
